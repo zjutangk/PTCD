@@ -81,7 +81,7 @@ If you find this code useful, please cite our paper:
 @inproceedings{tang2025towards,
   title = {Towards Transferable Personality Representation Learning based on Triplet Comparisons and Its Applications},
   author = {Kai Tang and Rui Wang and Renyu Zhu and Minmin Lin and Xiao Ding and Tangjie Lv and Changjie Fan and Runze Wu and Haobo Wang},
-  booktitle = {The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main)},
+  booktitle = {The Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year = {2025}
 }
 ```
