@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/
+output_embedding/
+output_warm/
+model_dir/
+*.log
+.ipynb_checkpoints
+
